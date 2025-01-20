@@ -1,0 +1,4 @@
+# _config.yml
+title: My Blog
+baseurl: ""  # Set this to the subpath if your GitHub repo is in a subfolder
+url: "https://abhishekkaria.github.io"
